@@ -27,7 +27,7 @@ namespace openlab_10._05
             LOTR2.writeall();
             LOTR3.writeall();
             HOBIT.writeall();
-            Console.WriteLine(HOBIT.Category);
+            
             
             
         }

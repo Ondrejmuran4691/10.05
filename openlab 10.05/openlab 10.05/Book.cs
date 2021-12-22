@@ -43,7 +43,7 @@ namespace openlab_10._05
         private string _category;  
         public string Category    
         {
-            get => _category;
+            private get => _category;
             set => _category = value;
         }
         private int pages;
